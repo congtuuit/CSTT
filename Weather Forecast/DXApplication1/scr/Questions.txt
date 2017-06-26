@@ -1,0 +1,8 @@
+﻿1. Dự báo thời tiết là gì? Dự báo thời tiết có tác dụng gì?#
+2. Khí hậu và thời tiết khác nhau như thế nào?#
+3. Mây từ đâu đến?#
+4. Có bao nhiêu loại mây?#
+5. Độ ẩm là gì?#
+6. Tại sao có cầu vồng? #
+7. Nhiệt độ là gì?#
+8. Cách chuyển đổi giữa độ C và độ F?

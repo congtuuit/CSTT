@@ -1,0 +1,68 @@
+﻿Dự báo thời tiết là một ngành ứng dụng của khoa học và công nghệ
+để tiên đoán trạng thái và vị trí của bầu khí quyển trong tương lai
+gần.
+Dự báo thời tiết có tác dụng cung cấp thông tin nhằm bảo vệ cuộc sống
+con người cũng như tài sản và các hoạt động ngoài trời.
+#Khí hậu và thời tiết đều là sự diễn ra các hiện tượng khí tượng, thời tiết 
+là sự diễn ra các hiện tượng khí tượng như gió, mưa, ... trong một thời 
+gian ngắn giới hạn tại một khu vực nào đó cụ thể, còn khí hậu cũng là 
+sự diễn ra các hiện tượng thời tiết lặp lại trong một thời gian dài tại một
+khu vực, một vùng miền.
+#Mây được tạo thành do nước bốc hơi, hơi nước bay lên cao, càng lên 
+cao thì nhiệt độ càng giảm, hơi nước gặp lạnh và ngưng tụ lại thành các 
+hạt nước nhỏ li ti tạo thành các đám mây.
+#Các đám mây được chia thành 2 loại hình chính: mây lớp (mây đối lưu)
+và mây tích. Hai dạng chính này được chia thành bốn nhóm nhỏ phân biệt 
+theo độ cao của mây. Các đám mây được phân loại theo cao độ gốc của 
+mây, không phải đỉnh của nó.
+- Mây cao (họ A): có độ cao trên 5000m (16500 ft), trong đới lạnh của tầng
+đối lưu. Ở độ cao này nước gần như đóng băng hoàn toàn vì thế mây là các
+tinh thể nước đá. Các đám mây có xu hướng là mỏng, yếu và thông thường
+là trong suốt.
+- Mây trung bình (họ B): ở độ cao khoảng 2000 - 5000m (6500 - 16500ft)
+và thông thường chúng là các giọt nước siêu lạnh.
+- Mây thấp (họ C): được tạo ra dưới 2000m (6500ft) bao gồm mây tầng (đặc và xám).
+Khi các mây tầng tiếp xúc với mặt đất, chúng được gọi là sương mù.
+- Các đám mây thẳng đứng (họ D): các đám mây này có thể có hướng thẳng
+đứng lên trên, rất cao so với gốc của chúng và có thể hình thành ở bất cứ độ
+cao nào.
+Và các loại mây khác có thể tìm thấy ở phía trên tầng đối lưu, chúng bao gồm
+mây xà cừ và mây dạ quang, chúng hình thành ở tầng bình lưu và tầng trung lưu.
+#Độ ẩm gồm 2 loại: độ ẩm tương đối và độ ẩm tuyệt đối.
+Độ ẩm tương đối là tỷ số của áp suất hơi nước hiện tại của bất kỳ một hỗn hợp khí nào
+với hơi nước so với áp suất hơi nước bão hòa tính theo đơn vị là %. Định nghĩa khác của 
+độ ẩm tương đối là tỷ số giữa khối lượng nước trên một thể tích hiện tại so với khối lượng 
+nước trên cùng thể tích đó khi hơi nước bão hòa.
+Độ ẩm tuyệt đối là thuật ngữ được dùng để mô tả lượng hơi nước tồn tại trong 
+một thể tích hỗn hợp dạng khí nhất định.#
+Cầu vồng là hiện tượng tán sắc của các ánh sáng từ Mặt Trời khi khúc xạ và phản xạ 
+qua các giọt nước mưa.
+Tùy vào số lần phản xạ mà người ta phân ra làm cầu vồng bậc 1, bậc 2, ... Trong đó cầu vồng 
+bậc 1 là rõ nhất (chỉ có 1 lần phản xạ nên năng lượng sáng mạnh nhất). Thường cầu vồng nhìn 
+thấy là cầu vồng bậc 1. Tuy nhiên đôi khi ta còn quan sát thêm được cầu vồng bậc 2 mà trật tự 
+màu sắc lại ngược lại với cầu vồng bậc 1 và cường độ sáng yếu hơn.
+Do cầu vồng được nhìn bởi cùng 1 góc (gần 42 độ với cầu vồng bậc 1 và 53 độ với cầu vồng bậc 2), 
+là góc mà cường độ sáng của tất cả các tia mặt trời qua các giọt nước là đạt cực đại, nên cầu vồng 
+có dạng một cung tròn.
+#Nhiệt độ là tính chất vật lý của vật chất, hiểu nôm na là thang đo độ "nóng" và "lạnh". 
+Vật chất có nhiệt độ cao hơn thì nóng hơn.
+#Cách chuyển đổi nhiệt độ:
+	C = 5/9(F−32)
+	K = C + 273
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
